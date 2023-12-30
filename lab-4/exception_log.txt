@@ -1,0 +1,8 @@
+Исключение произошло при 2023-11-17T04:10:13.437917500
+Тип исключения: CustomFileNotFoundException
+Сообщение: Файл не найден: example.txt
+Трассировка стека:
+CustomFileNotFoundException: Файл не найден: example.txt
+	at FileHandler.readFile(FileHandler.java:35)
+	at Main.main(Main.java:4)
+
